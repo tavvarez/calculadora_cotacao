@@ -1,0 +1,14 @@
+# Parametros a serem considerados inicialmente:
+# Input de valor da mercadoria
+# Input de ICMS
+# PIS/COFINS fixo 3,650
+# Input de comissão, ou fixo
+# Taxa pamcard 0,800
+# Financeiro 1,500
+# soma dos anteriores
+# indice 100 - soma dos anteriores
+# seguro RCTRC 0,050
+# seguro RCFDC 0,050
+# GRIS 0,050
+# input de pedágio
+#input de valor do motorista
